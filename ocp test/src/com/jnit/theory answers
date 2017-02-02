@@ -1,0 +1,15 @@
+Ans9) 
+What operations are performant in arraylist when compared to linkedlist ?
+-Getting an element with index ?
+-Removing an element ?
+---------------------------------------------------------------
+LinkedList/Arraylist (Removal):remove(index),remove(object), removeAll(collection)
+
+Search :
+LinkedList slow depends number of items
+Arrylist is fast because it is index based.
+
+
+removal : linked list is fast compared to arraylist
+
+Ans 10) c
